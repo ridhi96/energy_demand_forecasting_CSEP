@@ -1,0 +1,110 @@
+2017-18
+
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2017-18/.DS_Store
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2017-18/25-11-17_nldc_psp.pdf
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2017-18/08-10-17_nldc_psp.pdf
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2017-18/16-03-18_nldc-psp.pdf
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2017-18/10-01-18_nldc_psp.pdf
+
+
+2018-19
+
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2018-19/.DS_Store
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2018-19/26-04-18_nldc_psp.pdf
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2018-19/04-11-18_nldc_psp.pdf
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2018-19/02-06-18_nldc_psp.pdf
+
+2019-20
+
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2019-20/.DS_Store
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2019-20/23-05-19_nldc_psp.pdf
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2019-20/11-06-19_nldc_psp.pdf
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2019-20/07-05-19_nldc_psp.pdf
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2019-20/08-10-19_nldc_psp.pdf
+
+
+2020-21
+
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2020-21/07-05-20_nldc_psp.pdf
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2020-21/.DS_Store
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2020-21/26-08-20_nldc_psp.pdf
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2020-21/20-10-20_nldc_psp.pdf
+
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2020-21/19-03-21_nldc_psp.pdf
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2020-21/13-12-20_nldc_psp-2.pdf
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2020-21/18-09-20_nldc_psp.pdf
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2020-21/02-07-20_nldc_psp.pdf
+
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2020-21/12-05-20_nldc_psp-2.pdf
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2020-21/27-09-20_nldc_psp.pdf
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2020-21/18-03-21_nldc_psp.pdf
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2020-21/21-10-20_nldc_psp.pdf
+
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2020-21/10-03-21_nldc_psp.pdf
+
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2020-21/23-06-20_nldc_psp.pdf
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2020-21/14-06-20_nldc_psp.pdf
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2020-21/22-06-20_nldc_psp.pdf
+
+
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2020-21/07-05-20_nldc_psp.pdf
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2020-21/.DS_Store
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2020-21/26-08-20_nldc_psp.pdf
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2020-21/20-10-20_nldc_psp.pdf
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2020-21/19-03-21_nldc_psp.pdf
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2020-21/13-12-20_nldc_psp-2.pdf
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2020-21/18-09-20_nldc_psp.pdf
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2020-21/02-07-20_nldc_psp.pdf
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2020-21/12-05-20_nldc_psp-2.pdf
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2020-21/18-03-21_nldc_psp.pdf
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2020-21/21-10-20_nldc_psp.pdf
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2020-21/10-03-21_nldc_psp.pdf
+
+
+
+
+2021-22
+
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2021-22/22-04-21_nldc_psp.pdf
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2021-22/16-08-21_nldc_psp.pdf
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2021-22/.DS_Store
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2021-22/31-05-21_nldc_psp.pdf
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2021-22/15-10-21_nldc_psp.pdf
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2021-22/05-09-21_nldc_psp.pdf
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2021-22/10-07-21_nldc_psp.pdf
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2021-22/09-10-21_nldc_psp.pdf
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2021-22/01-06-21_nldc_psp.pdf
+
+
+
+2022-23
+
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2022-23/29-09-22_nldc-psp.pdf
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2022-23/.DS_Store
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2022-23/20-11-22_nldc_psp_he.pdf
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2022-23/27-09-22_nldc_psp.pdf
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2022-23/06-12-22_nldc_psp_he.pdf
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2022-23/24-09-22_nldc_psp.pdf
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2022-23/25-09-22_nldc_psp.pdf
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2022-23/28-09-22_nldc_psp.pdf
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2022-23/26-09-22_nldc_psp.pdf
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2022-23/30-10-22_nldc_psp_he.pdf
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2022-23/02-12-22_nldc_psp.pdf
+Error reading PDF: /Users/ridhipurohit/Documents/GitHub/energy_project_CSEP/india_energy_data/2022-23/23-09-22_nldc_psp.pdf
+
+
+DONE:
+EDA
+date missingness 
+fix dates
+sort data by date - ascending
+create three columns, date, month and year
+create graphs - avg demand yoy 
+avg monthly demand over four five years
+find anomalies
+
+TO DO:
+training 2013-17
+testing: 2017-18 - divide into val and test random split 40:60
+grid search - train and val - method to find best hyperparameters
+prophet - can add holidays/important events - using open calendar, or saturday/sunday

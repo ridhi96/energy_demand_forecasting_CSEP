@@ -1,0 +1,17 @@
+Downloading for folder 2022-23 
+Failed to download: https://posoco.in/download/11-09-22_nldc_psp/?wpdmdl=47458, Status Code: 500
+Downloading for folder 2021-22 
+Failed to download: https://posoco.in/download/30-08-21_nldc_psp/?wpdmdl=39243, Status Code: 500
+Downloading for folder 2019-20 
+Failed to download: https://posoco.in/download/29-05-19_nldc_psp/?wpdmdl=23249, Status Code: 500
+Downloading for folder 2017-18 
+Failed to download: https://posoco.in/download/11-08-17_nldc_psp/?wpdmdl=13752, Status Code: 500
+Downloading for folder 2015-16 
+Failed to download: https://posoco.in/download/04.02.16_nldc_psp/?wpdmdl=3846, Status Code: 500
+Failed to download: https://posoco.in/download/04.02.16_nldc_psp/?wpdmdl=3846, Status Code: 500
+Failed to download: https://posoco.in/download/28.01.16_nldc_psp/?wpdmdl=3901, Status Code: 500
+Downloading for folder 2014-15 
+Failed to download: https://posoco.in/download/23.06.14_nldc_psp/?wpdmdl=3588, Status Code: 500
+Failed to download: https://posoco.in/download/03.12.14_nldc_psp/?wpdmdl=3441, Status Code: 500
+
+

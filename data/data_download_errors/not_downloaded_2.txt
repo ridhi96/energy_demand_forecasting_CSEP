@@ -1,0 +1,49 @@
+Downloading for folder 2022-23 
+Failed to download: https://posoco.in/download/17-07-22_nldc_psp/?wpdmdl=46164, Status Code: 500
+Failed to download: https://posoco.in/download/11-09-22_nldc_psp/?wpdmdl=47458, Status Code: 500
+Downloading for folder 2021-22 
+Failed to download: https://posoco.in/download/30-08-21_nldc_psp/?wpdmdl=39243, Status Code: 500
+Downloading for folder 2020-21 
+Failed to download: https://posoco.in/download/03-10-20_nldc_psp/?wpdmdl=32164, Status Code: 500
+Downloading for folder 2019-20 
+Failed to download: https://posoco.in/download/23-03-20_nldc_psp/?wpdmdl=27810, Status Code: 500
+Failed to download: https://posoco.in/download/07-05-19_nldc_psp/?wpdmdl=22966, Status Code: 500
+Failed to download: https://posoco.in/download/25-03-20_nldc_psp-2/?wpdmdl=27937, Status Code: 500
+Failed to download: https://posoco.in/download/28-02-20_nldc_psp/?wpdmdl=27371, Status Code: 500
+Failed to download: https://posoco.in/download/19-04-19_nldc_psp/?wpdmdl=22731, Status Code: 500
+Failed to download: https://posoco.in/download/19-04-19_nldc_psp/?wpdmdl=22731, Status Code: 500
+Failed to download: https://posoco.in/download/29-05-19_nldc_psp/?wpdmdl=23249, Status Code: 500
+Failed to download: https://posoco.in/download/29-05-19_nldc_psp/?wpdmdl=23249, Status Code: 500
+Downloading for folder 2018-19 
+Failed to download: https://posoco.in/download/23-11-18_nldc_psp/?wpdmdl=20544, Status Code: 500
+Failed to download: https://posoco.in/download/15-05-18_nldc_psp/?wpdmdl=17599, Status Code: 500
+Downloading for folder 2017-18 
+Failed to download: https://posoco.in/download/09-02-18_r0_nldc_psp/?wpdmdl=16283, Status Code: 500
+Failed to download: https://posoco.in/download/09-02-18_r0_nldc_psp/?wpdmdl=16283, Status Code: 500
+Failed to download: https://posoco.in/download/11-08-17_nldc_psp/?wpdmdl=13752, Status Code: 500
+Failed to download: https://posoco.in/download/08-08-2017_nldc_psp/?wpdmdl=13720, Status Code: 500
+Failed to download: https://posoco.in/download/13-09-17_nldc_psp/?wpdmdl=14264, Status Code: 500
+Failed to download: https://posoco.in/download/13-09-17_nldc_psp/?wpdmdl=14264, Status Code: 500
+Downloading for folder 2016-17 
+Failed to download: https://posoco.in/download/03.06.16_nldc_psp/?wpdmdl=4160, Status Code: 500
+Failed to download: https://posoco.in/download/21.08.16_nldc_psp/?wpdmdl=6166, Status Code: 500
+Failed to download: https://posoco.in/download/25.05.16_nldc_psp_rev1/?wpdmdl=4221, Status Code: 500
+Downloading for folder 2015-16 
+Failed to download: https://posoco.in/download/04.02.16_nldc_psp/?wpdmdl=3846, Status Code: 500
+Failed to download: https://posoco.in/download/27.01.16_nldc_psp/?wpdmdl=3900, Status Code: 500
+Failed to download: https://posoco.in/download/07.11.15_nldc_psp/?wpdmdl=4029, Status Code: 500
+Failed to download: https://posoco.in/download/28.01.16_nldc_psp/?wpdmdl=3901, Status Code: 500
+Failed to download: https://posoco.in/download/02.03.16_nldc_psp/?wpdmdl=3964, Status Code: 500
+Downloading for folder 2014-15 
+Failed to download: https://posoco.in/download/19.06.14_nldc_psp/?wpdmdl=3584, Status Code: 500
+Failed to download: https://posoco.in/download/03.12.14_nldc_psp/?wpdmdl=3441, Status Code: 500
+Failed to download: https://posoco.in/download/03.12.14_nldc_psp/?wpdmdl=3441, Status Code: 500
+Failed to download: https://posoco.in/download/23.06.14_nldc_psp/?wpdmdl=3588, Status Code: 500
+Failed to download: https://posoco.in/download/23.06.14_nldc_psp/?wpdmdl=3588, Status Code: 500
+Failed to download: https://posoco.in/download/08.12.14_nldc_psp/?wpdmdl=3446, Status Code: 500
+Failed to download: https://posoco.in/download/19.04.14_nldc_psp/?wpdmdl=3395, Status Code: 500
+Downloading for folder 2013-14 
+Failed to download: https://posoco.in/download/16.09.13_nldc_psp/?wpdmdl=3361, Status Code: 500
+Failed to download: https://posoco.in/download/16.09.13_nldc_psp/?wpdmdl=3361, Status Code: 500
+Failed to download: https://posoco.in/download/11.12.13_nldc_psp/?wpdmdl=3117, Status Code: 500
+Failed to download: https://posoco.in/download/26.04.13_nldc_psp/?wpdmdl=3074, Status Code: 500
