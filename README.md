@@ -1,2 +1,2 @@
-# energy_demand_forecasting_CSEP
+# Energy Demand Forecasting for Center for Social and Economic Progress (CSEP)
  
